@@ -1,0 +1,9 @@
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\bin\Debug\QuickReminder.exe.config
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\bin\Debug\QuickReminder.exe
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\bin\Debug\QuickReminder.pdb
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.csprojResolveAssemblyReference.cache
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.Properties.Resources.resources
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.csproj.GenerateResource.Cache
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.exe
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.pdb
+c:\users\yadang\documents\visual studio 2015\Projects\QuickReminder\QuickReminder\obj\Debug\QuickReminder.main.resources
